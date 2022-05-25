@@ -14,6 +14,7 @@ public class MediaNota {
 	 */
 	public static void main(String[] args) {
 		System.out.println("Calculando a média dos alunos");
+		System.out.println("Testando Git");
 
 	}
 
